@@ -21,4 +21,4 @@ for item in fruits:
     
  # 6 create a list of numbers  and find its length.
 numbers =[1,2,3,4,5,6,7,8,9]
-print(len(numbers))  #output s9
+print(len(numbers))  #output is 9
